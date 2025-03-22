@@ -3,7 +3,7 @@ package br.edu.unifio.produto;
 public class Resposta {
     private Integer status;
     private String mensagem;
-    
+
     public Integer getStatus() {
         return status;
     }
